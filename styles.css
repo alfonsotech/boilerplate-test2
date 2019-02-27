@@ -1,3 +1,6 @@
 * {
   outline: 1px dotted red;
 }
+button {
+  margin: 20px;
+}
